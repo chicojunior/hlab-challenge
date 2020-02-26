@@ -1,0 +1,26 @@
+{
+  "name": "hash-antecipation",
+  "version": "1.0.0",
+  "description": "Test project to sharpen skills",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chicojunior/hlab-test.git"
+  },
+  "keywords": [
+    "vanilla-js",
+    "coding-test"
+  ],
+  "author": "Francisco do Vale <fdovalejr@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chicojunior/hlab-test/issues"
+  },
+  "homepage": "https://github.com/chicojunior/hlab-test#readme",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
